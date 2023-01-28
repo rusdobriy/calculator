@@ -1,0 +1,6 @@
+calculator.sln
+.vs/
+*.log
+*.jpeg
+!debug.log
+!.vs/important.log
