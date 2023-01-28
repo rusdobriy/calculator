@@ -17,7 +17,7 @@ namespace calculator
                 }
                 catch
                 {
-                    Console.WriteLine("пиши числа!!");
+                    Console.WriteLine("лол кек, а че так можно было?!!");
                 }
             }
         }
