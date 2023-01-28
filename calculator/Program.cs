@@ -17,7 +17,7 @@ namespace calculator
                 }
                 catch
                 {
-                    Console.WriteLine("ублюдок мать твою иди сюда говно вонючее пиши числа!!");
+                    Console.WriteLine("пиши числа!!");
                 }
             }
         }
