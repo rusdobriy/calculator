@@ -42,7 +42,7 @@ namespace calculator
                 }
                 if (action == "exit")
                 {
-                    Console.WriteLine("Спасибо за выбор нашей ждкомпании, ждем ваших инвестиций в наше светлое будущее");
+                    Console.WriteLine("Спасибо за выбор нашей ждкомпании      , ждем ваших инвестиций в наше светлое будущее");
                     Console.ReadLine();
                     return;
                 }
